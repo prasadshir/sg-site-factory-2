@@ -49,7 +49,8 @@ A Site Factory Pro understands key security and performance concepts for a multi
 
 **Resources:**
 
-* * 
+* [Managing your site factory sites](https://docs.acquia.com/site-factory/manage/)
+
 ### 2.3 Demonstrate ability to configure global site administration settings
 
 **Resources:**
@@ -116,7 +117,8 @@ A Site Factory Pro understands key security and performance concepts for a multi
 
 **Resources:**
 
-* 
+* [Workflows in Site Factory](https://docs.acquia.com/site-factory/workflow/)
+
 ### 4.3 Demonstrate understanding of best practices for Site Content and Configuration staging
 
 **Resources:**
